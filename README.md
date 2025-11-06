@@ -42,7 +42,7 @@ Links will be updated as the series goes live!
 ## 🏁 How to Track Progress
 
 1. **Fork this repo**  
-2. Replace ⬜ with ✅ as you finish each day  
+2. Replace ⬜ with ✅ as you finish each day  .
 3. Post daily updates on **LinkedIn** with the hashtag **#DSAin90Days** and tag **@CTOBhaiya**  
 4. Keep your streak — and share your learning journey!  
 
